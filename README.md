@@ -35,3 +35,4 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-m
 curl -sLo "$HOME/.zshrc" https://gist.github.com/jonnylangefeld/3c6ecdcc13f15abbbc5297f689421440/raw/23dc4143e85aa35399d7ae6d248d69c25f76e5dd/.zshrc
 
 compaudit | xargs chmod g-w,o-w
+use
